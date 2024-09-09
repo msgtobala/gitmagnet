@@ -1,6 +1,6 @@
 {
   "name": "gitmagnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download git repos from an account",
   "main": "index.js",
   "type": "module",
