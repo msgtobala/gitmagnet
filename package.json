@@ -1,5 +1,5 @@
 {
-  "name": "git-all",
+  "name": "git-clone-all",
   "version": "1.0.0",
   "description": "Download git repos from an account",
   "main": "index.js",
@@ -9,9 +9,8 @@
     "test": "npm run test"
   },
   "bin": {
-    "git-all": "./index.js"
+    "git-clone-all": "./index.js"
   },
-  "author": "Balaji Venkatraman S",
   "license": "ISC",
   "dependencies": {
     "@inquirer/prompts": "^5.5.0",
