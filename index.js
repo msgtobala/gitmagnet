@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
 import chalk from 'chalk';
-import chalkAnimation from 'chalk-animation';
-import gradient from 'gradient-string';
 import { select, input, checkbox, password, confirm } from '@inquirer/prompts';
 import nanospinner from 'nanospinner';
 import simpleGit from 'simple-git';
