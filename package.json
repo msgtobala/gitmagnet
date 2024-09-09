@@ -1,5 +1,5 @@
 {
-  "name": "git-clone-all",
+  "name": "gitmagnet",
   "version": "1.0.0",
   "description": "Download git repos from an account",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "npm run test"
   },
   "bin": {
-    "git-clone-all": "./index.js"
+    "gitmagnet": "./index.js"
   },
   "license": "ISC",
   "dependencies": {
