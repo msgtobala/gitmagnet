@@ -1,6 +1,6 @@
 # GitMagnet
 
-GitMagnet is a powerful command-line tool that allows you to clone multiple GitHub repositories simultaneously. It supports cloning public repositories, private repositories, and organization repositories, making it an ideal solution for developers working with multiple projects or managing large codebases.
+**GitMagnet** is a powerful command-line tool that allows you to clone multiple GitHub repositories simultaneously. It supports cloning public repositories, private repositories, and organization repositories, making it an ideal solution for developers working with multiple projects or managing large codebases.
 
 ## Features
 
