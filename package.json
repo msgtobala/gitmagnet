@@ -4,6 +4,11 @@
   "description": "Download git repos from an account",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://github.com/msgtobala/gitmagnet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msgtobala/gitmagnet"
+  },
   "scripts": {
     "dev": "node index.js",
     "test": "npm run test"
